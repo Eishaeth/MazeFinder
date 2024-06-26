@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class CollectibleDescription : MonoBehaviour
 {
-    public static event Action OnCollected;
+    // public static event Action OnCollected;
 
     public float displayTime = 5f;
 
@@ -15,15 +15,16 @@ public class CollectibleDescription : MonoBehaviour
     void Awake()
     {
         text = GetComponent<TMPro.TMP_Text>();
+        isDisplaying = true;
     }
 
-    void OnEnable() => Collectible.OnCollected += OnCollectibleCollected;
+    void OnEnable() => Collectible.OnCollected += OnCollectibleCollected; 
     void OnDisable() => Collectible.OnCollected -= OnCollectibleCollected;
 
     void OnCollectibleCollected()
     {
         text.text = "The yellow door has been opened";
-        isDisplaying = true;
+        
         Invoke("HideItemText", displayTime);
     }
     void HideItemText()
