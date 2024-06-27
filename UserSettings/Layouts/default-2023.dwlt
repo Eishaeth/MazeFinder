@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 102
+  controlID: 41
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -417,10 +417,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 88c90000
-      m_LastClickedID: 51592
-      m_ExpandedIDs: 36bfffff6aceffff7ad3fffff6d4ffff78d9ffff14dfffffdcfaffff0894000084950000ba950000ec9500005aa500008ca500004aa800007ca8000038ab00006aab0000f2ad000028ae0000
+      scrollPos: {x: 0, y: 683}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: cefaffffd0faffff8a93000016940000b89400007c950000b8950000ca950000ea950000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -437,7 +437,7 @@ MonoBehaviour:
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
-        m_ClientGUIView: {fileID: 8}
+        m_ClientGUIView: {fileID: 0}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -1004,9 +1004,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 19.7761, y: -5.098461, z: -15.764995}
+    m_Target: {x: 19.736092, y: 3.18393, z: -41.260414}
     speed: 2
-    m_Value: {x: 19.7761, y: -5.098461, z: -15.764995}
+    m_Value: {x: 19.736092, y: 3.18393, z: -41.260414}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1052,13 +1052,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.09601514, y: -0.054906458, z: 0.005296961, w: 0.99385834}
+    m_Target: {x: -0.38049242, y: -0.07837836, z: 0.03238015, w: -0.92090476}
     speed: 2
-    m_Value: {x: 0.09601437, y: -0.054906018, z: 0.0052969186, w: 0.9938504}
+    m_Value: {x: -0.3804374, y: -0.07975836, z: 0.03295033, w: -0.92077154}
   m_Size:
-    m_Target: 22.213284
+    m_Target: 6.6927757
     speed: 2
-    m_Value: 22.213284
+    m_Value: 6.6927757
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1172,7 +1172,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Prefabs
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1182,16 +1182,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\User\Documents\Github\MazeFinder
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 123}
-    m_SelectedIDs: 64980000
-    m_LastClickedID: 39012
-    m_ExpandedIDs: 00000000de970000e0970000e2970000e4970000e6970000e897000000ca9a3b
+    m_SelectedIDs: 48980000
+    m_LastClickedID: 38984
+    m_ExpandedIDs: 00000000c8970000ca970000cc970000ce970000d09700004098000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1220,7 +1220,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 263}
     m_SelectedIDs: f68f0000
     m_LastClickedID: 36854
-    m_ExpandedIDs: 00000000de970000e0970000e2970000e4970000e6970000e8970000
+    m_ExpandedIDs: 00000000c8970000ca970000cc970000ce970000d0970000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
