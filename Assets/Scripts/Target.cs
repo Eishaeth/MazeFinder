@@ -7,12 +7,15 @@ public class Target : MonoBehaviour
 
     public GameObject door;
 
+    public GameObject ball;
+
     void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.CompareTag("Ball"))
         {
             //OnTargetHit?.Invoke();
             OpenDoor();
+            Destroy(collision.gameObject);
         }
     }
 
