@@ -417,10 +417,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: e8faffff
+      scrollPos: {x: 0, y: 43}
+      m_SelectedIDs: a8af0000
+      m_LastClickedID: 44968
+      m_ExpandedIDs: 34dcffff4eddffff00dfffffdadfffffb4e0ffff6ee2ffff00f1ffffc6f6ffffdcf6ffffe8faffff149e0000469e000020af0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1004,9 +1004,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 19.354065, y: 3.1383886, z: -41.240997}
+    m_Target: {x: 24.904696, y: -4.8677626, z: -32.598713}
     speed: 2
-    m_Value: {x: 19.354065, y: 3.1383886, z: -41.240997}
+    m_Value: {x: 24.904696, y: -4.8677626, z: -32.598713}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1052,13 +1052,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.38049242, y: -0.07837836, z: 0.03238015, w: -0.92090476}
+    m_Target: {x: -0.2190655, y: -0.15669914, z: 0.0356675, w: -0.9624035}
     speed: 2
-    m_Value: {x: -0.38049242, y: -0.07837836, z: 0.032380145, w: -0.9209047}
+    m_Value: {x: -0.21911474, y: -0.15525252, z: 0.035338216, w: -0.9626198}
   m_Size:
-    m_Target: 6.3399854
+    m_Target: 16.171549
     speed: 2
-    m_Value: 6.066972
+    m_Value: 16.171549
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1172,7 +1172,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1182,15 +1182,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\User\Documents\Github\MazeFinder
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 123}
-    m_SelectedIDs: 72980000
-    m_LastClickedID: 39026
+    scrollPos: {x: 0, y: 133}
+    m_SelectedIDs: 64980000
+    m_LastClickedID: 39012
     m_ExpandedIDs: 00000000ec970000ee970000f0970000f2970000f49700006498000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
