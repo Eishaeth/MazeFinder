@@ -425,6 +425,7 @@
 "Assets/Scripts/KeyScript.cs"
 "Assets/Scripts/Playermovement.cs"
 "Assets/Scripts/RespawnBall.cs"
+"Assets/Scripts/SceneChanger.cs"
 "Assets/Scripts/Target.cs"
 "Assets/Scripts/Test.cs"
 "Assets/Scripts/TimerController.cs"
