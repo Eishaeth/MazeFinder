@@ -38,7 +38,7 @@ public class TimerController : MonoBehaviour
     {
         timerGoing = false;
     }
-
+  
     private IEnumerator UpdateTimer()
     {
         while (timerGoing)
@@ -51,4 +51,5 @@ public class TimerController : MonoBehaviour
             yield return null;
         }
     }
+    
 }

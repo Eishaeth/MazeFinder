@@ -6,7 +6,7 @@ public class GateKeyMechanics : MonoBehaviour
 {
     void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("Key"))
+        if (collision.gameObject.CompareTag("Interactable"))
         {
             Destroy(gameObject);
         }

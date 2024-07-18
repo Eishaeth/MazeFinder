@@ -13,6 +13,7 @@ public class GameController : MonoBehaviour
     private float startTime, elapsedTime;
     private TimeSpan timePlaying;
 
+    public float timeReductionPerItem = 5.0f; // Adjust this value as needed
     private void Start()
     {
         BeginGame();
@@ -50,7 +51,18 @@ public class GameController : MonoBehaviour
             }
         }
     }
-
+    
+    public void CollectItem()
+    {
+        if (gamePlaying)
+        {
+            elapsedTime -= timeReductionPerItem; // Subtract time reduction
+            elapsedTime = Mathf.Clamp(elapsedTime, 0.0f, float.MaxValue); // Ensure timer doesn't go negative
+            timePlaying = TimeSpan.FromSeconds(elapsedTime);
+            timeCounter.text = "Time: " + timePlaying.ToString("mm':'ss'.'ff");
+        }
+    }
+   
     void SetTextAlpha(Text textComponent, float alphaValue)
     {
         if (textComponent != null)

@@ -8,7 +8,7 @@ public class GameOverTrigger : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("MainCamera"))
+        if (other.CompareTag("Player"))
         {
             Debug.Log("Player has entered Game Over zone");
             gameController.EndGame();
