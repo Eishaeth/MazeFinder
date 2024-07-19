@@ -21,16 +21,16 @@ public class Collectible : MonoBehaviour
             
             OnCollected?.Invoke();
             Destroy(gameObject);
-            DisplayMessage("Yellow Door opened");
+            //DisplayMessage("Yellow Door opened");
             OpenWall();
         }
     }
 
-    void DisplayMessage(string message)
+    /*void DisplayMessage(string message)
     {
         // Implement UI element to display the message
         Debug.Log(message);
-    }
+    }*/
 
     void OpenWall()
     {
