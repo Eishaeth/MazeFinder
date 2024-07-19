@@ -62,12 +62,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\Scripts\XRPokeFollowAffordance.cs" />
-    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\Scripts\ActionBasedControllerManager.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\Scripts\GazeInputManager.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\Scripts\DynamicMoveProvider.cs" />
-    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\DemoSceneAssets\Scripts\IncrementUIText.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\Scripts\DestroySelf.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\Scripts\ObjectSpawner.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\Scripts\ActionBasedControllerManager.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\DemoSceneAssets\Scripts\IncrementUIText.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\Tunneling Vignette\TunnelingVignette.shader" />
@@ -568,6 +568,14 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil@1.11.4\Mono.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>Library\PackageCache\com.unity.collections@1.4.0\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">

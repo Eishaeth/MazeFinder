@@ -7,9 +7,9 @@ public class PickUp : MonoBehaviour
     public GameObject player;
     public Transform holdPos;
     
-    public float throwForce = 500f; //force at which the object is thrown at
+    public float throwForce = 750f; //force at which the object is thrown at
 
-    public float pickUpRange = 5f; //how far the player can pickup the object from
+    public float pickUpRange = 10f; //how far the player can pickup the object from
 
     private float rotationSensitivity = 1f; //how fast/slow the object is rotated in relation to mouse movement
 

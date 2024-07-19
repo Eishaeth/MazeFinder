@@ -3,19 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|c:\\users\\amers\\onedrive\\documents\\github\\mazefinder 1\\mazefinder\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|c:\\users\\amers\\onedrive\\documents\\github\\mazefinder 1\\mazefinder\\assets\\scripts\\collectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|c:\\users\\amers\\onedrive\\documents\\github\\mazefinder 1\\mazefinder\\assets\\scripts\\gatekeymechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gatekeymechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\assets\\scripts\\keyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\assets\\scripts\\collectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|c:\\users\\amers\\onedrive\\documents\\github\\mazefinder 1\\mazefinder\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|c:\\users\\amers\\onedrive\\documents\\github\\mazefinder 1\\mazefinder\\assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,8 +38,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GateKeyMechanics.cs",
+              "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\GateKeyMechanics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GateKeyMechanics.cs",
+              "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\GateKeyMechanics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GateKeyMechanics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:05:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyScript.cs",
+              "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\KeyScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyScript.cs",
+              "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\KeyScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:05:20.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PickUp.cs",
+              "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\PickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUp.cs",
+              "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\PickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:03:45.916Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +85,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Playermovement.cs",
               "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Playermovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Playermovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T13:31:08.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Collectible.cs",
               "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Collectible.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collectible.cs",
@@ -51,12 +100,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Collectible.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAzwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T13:10:49.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T13:10:49.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CollectItem.cs",
               "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\CollectItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CollectItem.cs",
@@ -64,12 +112,11 @@
               "RelativeToolTip": "Assets\\Scripts\\CollectItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T13:08:52.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T13:08:52.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\GameController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
@@ -77,8 +124,7 @@
               "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
               "ViewState": "AQIAAIEAAAAAAAAAAAAQwJsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T13:04:21.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T13:04:21.228Z"
             }
           ]
         }
