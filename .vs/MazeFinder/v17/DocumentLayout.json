@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|c:\\users\\amers\\onedrive\\documents\\github\\mazefinder 1\\mazefinder\\assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|c:\\users\\amers\\onedrive\\documents\\github\\mazefinder 1\\mazefinder\\assets\\scripts\\player\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\assets\\scripts\\keys\\level 1 gatekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keys\\level 1 gatekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\assets\\scripts\\target\\colouredtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target\\colouredtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|c:\\users\\amers\\onedrive\\documents\\github\\mazefinder 1\\mazefinder\\assets\\scripts\\keys\\keyrespawn 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E828B9E9-5F5E-EA34-15D0-C649E5D44B5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keys\\keyrespawn 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Level 1 GateKey.cs",
-              "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Keys\\Level 1 GateKey.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Keys\\Level 1 GateKey.cs",
-              "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Keys\\Level 1 GateKey.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Keys\\Level 1 GateKey.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T16:35:32.356Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Collectible.cs",
-              "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Collectible.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectible.cs",
-              "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Collectible.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Collectible.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAOAAAA",
+              "Title": "PickUp.cs",
+              "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Player\\PickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PickUp.cs",
+              "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Player\\PickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PickUp.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAwwHkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T18:19:40.492Z",
+              "WhenOpened": "2024-07-20T13:07:50.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "XRGrabInteractable.cs",
-              "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
-              "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
-              "ViewState": "AQIAALYBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "KeyRespawn 2.cs",
+              "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Keys\\KeyRespawn 2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Keys\\KeyRespawn 2.cs",
+              "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Keys\\KeyRespawn 2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Keys\\KeyRespawn 2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:35:12.199Z",
+              "WhenOpened": "2024-07-20T13:06:33.838Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ColouredTarget.cs",
-              "DocumentMoniker": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Target\\ColouredTarget.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Target\\ColouredTarget.cs",
-              "ToolTip": "C:\\Users\\amers\\OneDrive\\Documents\\GitHub\\MazeFinder 1\\MazeFinder\\Assets\\Scripts\\Target\\ColouredTarget.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Target\\ColouredTarget.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T16:48:03.172Z"
             }
           ]
         }

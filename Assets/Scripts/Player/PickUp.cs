@@ -106,8 +106,7 @@ public class PickUp : MonoBehaviour
             canDrop = false; //make sure throwing can't occur during rotating
 
             //disable player being able to look around
-            //mouseLookScript.verticalSensitivity = 0f;
-            //mouseLookScript.lateralSensitivity = 0f;
+            
             playermovement.lookSpeed = 0f;
             playermovement.lookXLimit = 0f;
 
@@ -120,8 +119,7 @@ public class PickUp : MonoBehaviour
         else
         {
             //re-enable player being able to look around
-            //mouseLookScript.verticalSensitivity = originalvalue;
-            //mouseLookScript.lateralSensitivity = originalvalue;
+           
             playermovement.lookSpeed = 2f;
             playermovement.lookXLimit = 45f;
 
