@@ -987,7 +987,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
+      objectReference: {fileID: 2100000, guid: 2270b12ebe7105e4ebb2018d4cd3a6a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial
@@ -2974,7 +2974,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
+      objectReference: {fileID: 2100000, guid: 2270b12ebe7105e4ebb2018d4cd3a6a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (2)
@@ -4369,7 +4369,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
+      objectReference: {fileID: 2100000, guid: 2270b12ebe7105e4ebb2018d4cd3a6a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (3)
@@ -4823,7 +4823,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
+      objectReference: {fileID: 2100000, guid: 2270b12ebe7105e4ebb2018d4cd3a6a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (1)
