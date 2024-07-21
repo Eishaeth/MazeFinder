@@ -188,11 +188,11 @@ public class GameController : MonoBehaviour
 
         // Determine the highscore key based on the scene name
         string highscoreKey = "HighscoreDefault";
-        if (sceneName == "Level 2 Palace PC End" || sceneName == "Level 2 VR Complete")
+        if (sceneName == "Level 2 Palace PC End" || sceneName == "Level 2 VR Completed")
         {
             highscoreKey = "HighscoreLevel2";
         }
-        else if (sceneName == "Level 3 PC End" || sceneName == "Level 3 VR Complete")
+        else if (sceneName == "Level 3 PC End" || sceneName == "Level 3 VR Completed")
         {
             highscoreKey = "HighscoreLevel3";
         }
