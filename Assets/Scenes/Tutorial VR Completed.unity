@@ -3738,6 +3738,7 @@ GameObject:
   - component: {fileID: 718087504}
   - component: {fileID: 718087502}
   - component: {fileID: 718087507}
+  - component: {fileID: 718087508}
   m_Layer: 0
   m_Name: GameOverZone
   m_TagString: Finish
@@ -3848,6 +3849,19 @@ CapsuleCollider:
   m_Height: 5
   m_Direction: 1
   m_Center: {x: 0.000000047683717, y: 0.048728466, z: -0.00000009536743}
+--- !u!114 &718087508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718087501}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da8149c8d2b76344abdd0f3d9137b73e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ToloadScene: MainMenu VR Completed
 --- !u!1 &737288473 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
@@ -8272,7 +8286,7 @@ Transform:
   m_GameObject: {fileID: 1711807062}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 34.2, y: 1.56, z: -49.7}
+  m_LocalPosition: {x: 31.9, y: 1.56, z: -53.5}
   m_LocalScale: {x: 1.3698, y: 1.1616539, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9101,7 +9115,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Back To Main Menu
+  m_text: Back To Main Menu in 8 seconds
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9128,8 +9142,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 60
-  m_fontSizeBase: 60
+  m_fontSize: 55
+  m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

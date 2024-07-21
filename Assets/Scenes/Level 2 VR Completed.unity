@@ -1146,7 +1146,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 28687d19fa4a7ed4eb1adb3edd4a404d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (5)
@@ -4752,7 +4752,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 28687d19fa4a7ed4eb1adb3edd4a404d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (1)
@@ -4938,7 +4938,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 28687d19fa4a7ed4eb1adb3edd4a404d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial
@@ -5014,7 +5014,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 28687d19fa4a7ed4eb1adb3edd4a404d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (3)
@@ -6181,7 +6181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Back To Main Menu
+  m_text: Back To Main Menu in 8 seconds
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6208,8 +6208,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 60
-  m_fontSizeBase: 60
+  m_fontSize: 55
+  m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -6323,7 +6323,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 28687d19fa4a7ed4eb1adb3edd4a404d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (2)
@@ -7579,7 +7579,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 28687d19fa4a7ed4eb1adb3edd4a404d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9d16169fca59a3b4485b1d9159f193e9, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (4)
@@ -9056,7 +9056,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2566532153507779770, guid: cb456cae119de6a4c8488222e9bd4b12, type: 3}
       propertyPath: m_Radius
-      value: 0.7
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: 2566532153507779770, guid: cb456cae119de6a4c8488222e9bd4b12, type: 3}
       propertyPath: m_Direction
@@ -9125,8 +9125,29 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6324594163087156355, guid: cb456cae119de6a4c8488222e9bd4b12, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2073250532}
   m_SourcePrefab: {fileID: 100100000, guid: cb456cae119de6a4c8488222e9bd4b12, type: 3}
+--- !u!1 &2073250531 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6324594163087156355, guid: cb456cae119de6a4c8488222e9bd4b12, type: 3}
+  m_PrefabInstance: {fileID: 2073250530}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2073250532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073250531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da8149c8d2b76344abdd0f3d9137b73e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ToloadScene: MainMenu VR Completed
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
