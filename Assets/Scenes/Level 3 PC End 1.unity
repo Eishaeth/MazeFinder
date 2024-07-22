@@ -309,29 +309,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6324594163087156355, guid: cb456cae119de6a4c8488222e9bd4b12, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 41841315}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb456cae119de6a4c8488222e9bd4b12, type: 3}
---- !u!1 &41841314 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6324594163087156355, guid: cb456cae119de6a4c8488222e9bd4b12, type: 3}
-  m_PrefabInstance: {fileID: 41841313}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &41841315
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 41841314}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: da8149c8d2b76344abdd0f3d9137b73e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ToloadScene: MainMenu PC End
 --- !u!1 &274359066 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
@@ -465,7 +444,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2506a0221a0e6144ad362fdc7633e58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  respawnPoint: {fileID: 1179334029}
+  respawnPoint: {fileID: 0}
   minYValue: -0.15
   maxYValue: 5
 --- !u!54 &401120781
@@ -602,7 +581,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 1fc4da867d5428142a37747cb40bbb63, type: 2}
+      objectReference: {fileID: 2100000, guid: 2270b12ebe7105e4ebb2018d4cd3a6a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial
@@ -721,7 +700,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2506a0221a0e6144ad362fdc7633e58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  respawnPoint: {fileID: 1179334029}
+  respawnPoint: {fileID: 0}
   minYValue: -0.15
   maxYValue: 5
 --- !u!54 &487675374
@@ -1419,7 +1398,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 1fc4da867d5428142a37747cb40bbb63, type: 2}
+      objectReference: {fileID: 2100000, guid: 2270b12ebe7105e4ebb2018d4cd3a6a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (2)
@@ -1566,11 +1545,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1124970874}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1179334029 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7583787289121639540, guid: 0706b81dee53f3242a1e7cd2e09d945a, type: 3}
-  m_PrefabInstance: {fileID: 2020990864}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1249478235
 GameObject:
   m_ObjectHideFlags: 0
@@ -1758,7 +1732,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 1fc4da867d5428142a37747cb40bbb63, type: 2}
+      objectReference: {fileID: 2100000, guid: 2270b12ebe7105e4ebb2018d4cd3a6a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (3)
@@ -1849,7 +1823,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7dc92d2ac2ea56040ba445b38c27ce15, type: 2}
+  - {fileID: 2100000, guid: b484a102937fdc4409bacffa47263b93, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2080,7 +2054,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 1fc4da867d5428142a37747cb40bbb63, type: 2}
+      objectReference: {fileID: 2100000, guid: 2270b12ebe7105e4ebb2018d4cd3a6a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 5e7e350a239a3cb4fb661dd97509f64a, type: 3}
       propertyPath: m_Name
       value: sundial (1)
@@ -2638,7 +2612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2506a0221a0e6144ad362fdc7633e58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  respawnPoint: {fileID: 1179334029}
+  respawnPoint: {fileID: 0}
   minYValue: -0.15
   maxYValue: 5
 --- !u!54 &1713203727
@@ -2764,7 +2738,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: bc2c5977c2bca6648928577749bec6a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 956d06292ab092645874a89b4912ff81, type: 2}
+      objectReference: {fileID: 2100000, guid: 7183e736dd2693747ba8d7e1d1f03fab, type: 2}
     - target: {fileID: 919132149155446097, guid: bc2c5977c2bca6648928577749bec6a6, type: 3}
       propertyPath: m_Name
       value: Level3_Layout
@@ -2894,7 +2868,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7dc92d2ac2ea56040ba445b38c27ce15, type: 2}
+  - {fileID: 2100000, guid: b484a102937fdc4409bacffa47263b93, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3128,10 +3102,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 4491966959319555680, guid: 0706b81dee53f3242a1e7cd2e09d945a, type: 3}
-      propertyPath: m_text
-      value: Back to main menu in 8s
-      objectReference: {fileID: 0}
     - target: {fileID: 7018880524718761722, guid: 0706b81dee53f3242a1e7cd2e09d945a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 5
@@ -3156,16 +3126,9 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
-    - target: {fileID: 7416184455460783700, guid: 0706b81dee53f3242a1e7cd2e09d945a, type: 3}
-      propertyPath: m_Text
-      value: 'Congratulations!
-
-
-        You have reached the end of level 3 ! '
-      objectReference: {fileID: 0}
     - target: {fileID: 7583787289121639540, guid: 0706b81dee53f3242a1e7cd2e09d945a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13.1
+      value: 40.7
       objectReference: {fileID: 0}
     - target: {fileID: 7583787289121639540, guid: 0706b81dee53f3242a1e7cd2e09d945a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3173,7 +3136,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7583787289121639540, guid: 0706b81dee53f3242a1e7cd2e09d945a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -107.2
+      value: -20.5
       objectReference: {fileID: 0}
     - target: {fileID: 7583787289121639540, guid: 0706b81dee53f3242a1e7cd2e09d945a, type: 3}
       propertyPath: m_LocalRotation.w
